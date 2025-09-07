@@ -1,4 +1,4 @@
-let jogadorNumero1 = "Gimli filho de Gloin";
+let nome = "Gimli filho de Gloin";
 let XP = 17000; 
 let nivel = "";
 
@@ -27,6 +27,6 @@ nivel = "Imortal"
 nivel = "Radiante"
 }
 
-console.log(`O Herói de nome ${jogadorNumero1} está no nível de ${nivel}!`);
+console.log(`O Herói de nome ${nome} está no nível de ${nivel}!`);
 
  
