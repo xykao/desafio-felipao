@@ -1,3 +1,4 @@
+//novo commit
 let nome = "Gimli filho de Gloin";
 let XP = 17000; 
 let nivel = "";
