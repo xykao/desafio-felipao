@@ -1,3 +1,4 @@
+//novo commit
 function calcularSaldo(vitorias, derrotas) {
     return vitorias - derrotas;
 }
