@@ -32,7 +32,7 @@ class heroi {
 const guerreiro = new heroi("Boromir de Gondor", 40, "guerreiro");
 const mago = new heroi("Gandalf O Cinzento", 10150, "mago");
 const monge = new heroi("Aang", 112, "monge");
-const ninja = new heroi("Jiraya", 25, "ninja");
+const ninja = new heroi("Jiraya", 30, "ninja");
 
 guerreiro.atacar();
 mago.atacar();
