@@ -1,4 +1,5 @@
 //novo commit
+//troca do nome
 function calcularSaldo(vitorias, derrotas) {
     return vitorias - derrotas;
 }
